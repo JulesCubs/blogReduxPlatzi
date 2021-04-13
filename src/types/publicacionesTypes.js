@@ -1,0 +1,7 @@
+export const ACTUALIZAR = "publicaciones_actualizar";
+export const CARGANDO = "publicaciones_cargando";
+export const ERROR = "publicaciones_error";
+export const COM_CARGANDO = "comentarios_cargando";
+export const COM_ERROR = "comentarios_error";
+export const COM_ACTUALIZAR = "comentarios_actualizar";
+//Convierto mis string de casos en cada action como una constante para evitar errores de type
